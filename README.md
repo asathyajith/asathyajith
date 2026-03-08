@@ -2,7 +2,7 @@
 - 👀 I’m interested in Development & IoT
 - 🌱 I’m currently working as Full stack web dev
 - 💞️ I’m looking to collaborate on web dev and IoT
-- 📫 How to reach me asathyajith.github.io
+- 📫 How to reach me [sathyajith.com](https://sathyajith.com/)
 
 <!---
 asathyajith/asathyajith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
